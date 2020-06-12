@@ -90,3 +90,7 @@ __OSS Final Project__
 
 
 * 더 많은 정보를 원하시면 google에 "라즈베리파이 FTP서버"를 검색하시면 됩니다.
+
+-----------------------------------------------------------------------------
+
+* Final Project Youtube 주소: https://www.youtube.com/watch?v=f9Sbr7JV7cc&feature=youtu.be
